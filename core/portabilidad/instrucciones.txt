@@ -1,3 +1,0 @@
-#nombre de usuario: linux
-
-#pegar el core y los videos en /home/linux
