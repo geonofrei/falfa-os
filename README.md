@@ -1,7 +1,7 @@
 
 **FALFA OS (FULLY AUTOMATED LINUX FOR ALL)**
 
-Se trada de una distribución Linux basada en Arch, cuya función es proveer un servicio de ayuda asistida y videollamada, dirigida principalmente a personas mayores.
+Se trata de una distribución Linux basada en Arch, cuya función es proveer un servicio de ayuda asistida y videollamada, dirigida principalmente a personas mayores.
 
 - Reproduce en bucle un vídeo o una secuencia de vídeos proporcionados, bloqueando teclado y ratón para que no pueda haber un uso incorrecto.
 
