@@ -1,0 +1,12 @@
+Los archivos usados para crear la iso se pueden encontrar en el siguiente enlace:
+
+#####################################################################################
+
+#####################################################################################
+
+
+
+Para poder crear vuestra propia iso modificada de falfa hay que usar la herramienta archiso y pasarle la ruta de la carpeta "baseline" con los cambios
+que hayais hecho.
+
+En github por el momento tendreis los scripts en bash sin los demas archivos debido a la limitacion de tama;o. 
