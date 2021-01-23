@@ -7,6 +7,6 @@ https://drive.google.com/drive/folders/1vEjPibhiOVXdFscXM5n29FQpYOS_k5xz?usp=sha
 
 
 Para poder crear vuestra propia iso modificada de falfa hay que usar la herramienta archiso y pasarle la ruta de la carpeta "baseline" con los cambios
-que hayais hecho. Dicha carpeta esta en el enlace mencionado. 
+que hayáis hecho. Dicha carpeta está en el enlace mencionado. 
 
-En github por el momento tendreis los scripts en bash sin los demas archivos debido a la limitacion de tama;o. 
+En github por el momento tendréis los scripts en bash sin los demás archivos debido a la limitación de tamaño. 
