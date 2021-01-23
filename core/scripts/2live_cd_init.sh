@@ -121,8 +121,7 @@ pacman -Sy --noconfirm
 pacman -Sy
 pacman -U /home/linux/core/binarioskype/skypeforlinux-stable-bin-8.67.0.96-1-x86_64.pkg.tar.zst --noconfirm 
 pacman -U /home/linux/core/binarioskype/yay-git-10.1.2.r2.g607d287-1-x86_64.pkg.tar.zst --noconfirm    
-
-#tengo 16 años, no soy programador, pero se que 																											#poniendo estas lineas de codigo solo arriba no 																													                                          #funcionaban, y poniendolas aqui si, por lo que 																												                                                     #aqui se quedan, si no te gusta no mires. 
+			                    
 ####################################################################################################################
 
 dconf load / < /home/linux/core/portabilidad/mate_config
