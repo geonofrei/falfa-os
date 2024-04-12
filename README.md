@@ -1,4 +1,4 @@
-**FALFA OS (FULLY AUTOMATED LINUX FOR ALL)**
+# FALFA OS (FULLY AUTOMATED LINUX FOR ALL)
 
 This is an Arch-based Linux distribution designed to provide assisted help and video calling services, primarily aimed at elderly people.
 
